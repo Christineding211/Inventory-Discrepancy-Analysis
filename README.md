@@ -1,6 +1,6 @@
 # Inventory Discrepancy Analysis
 
-Inventory Discrepancy Analysis is a PostgreSQL project that reconciles simulated inventory
+This project reconciles simulated inventory
 snapshots from an enterprise resource planning (ERP) system and a warehouse
 management system (WMS). It identifies differences in recorded physical and
 available quantities, then prioritises exceptions for investigation.
